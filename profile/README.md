@@ -27,16 +27,20 @@ Our goal is to provide developers with a flexible and practical toolkit for buil
 - Practical tools for developers.
 - Continuous improvement.
 
-## Credits
+## Credits and acknowledgements
 
-LaveroAdmin would not exist without the work of the original Open Admin and Laravel Admin developers.
+LaveroAdmin is built upon the work of two open-source projects and their contributors.
 
-We sincerely thank:
+We would like to express our sincere gratitude to:
 
-- [Open Admin team](https://github.com/open-admin-org) — for the administration panel, its architecture, and the work invested in the project.
-- [Z-song](https://github.com/z-song) — for creating the original Laravel Admin project that inspired this ecosystem.
+- **[Z-song](https://github.com/z-song)** — for creating [Laravel Admin](https://github.com/z-song/laravel-admin), the original project that laid the foundation for this ecosystem.
+- **[Open Admin team](https://github.com/open-admin-org)** — for forking and continuing the development of Laravel Admin, creating [Open Admin](https://github.com/open-admin-org/open-admin), which serves as the direct foundation for LaveroAdmin.
 
-We respect the original authors, their contributions, and the licenses of the software we build upon.
+LaveroAdmin continues this lineage as an independent project, introducing its own improvements, compatibility updates, and extensions, including support for modern Laravel versions.
+
+We deeply appreciate the work of the original authors and contributors who made this project possible.
+
+All original copyrights, attributions, and licenses remain with their respective authors and projects.
 
 ---
 
